@@ -38,3 +38,4 @@ tst/ConfigurationCombinationsTest.php
 .c9
 /.idea/
 *.iml
+cache
